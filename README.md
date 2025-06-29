@@ -1,1 +1,1 @@
-# javascript-dynamic-gallery
+This is a simple and visually engaging interactive image gallery built with HTML, CSS, and vanilla JavaScript. The layout uses CSS Flexbox to create expandable panels that animate smoothly on click.
